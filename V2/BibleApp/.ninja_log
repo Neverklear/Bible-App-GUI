@@ -1,0 +1,12 @@
+# ninja log v6
+28	2051	7647914659272246	BibleAppGui_autogen/timestamp	df34a951e4bdfd08
+28	2051	7647914659272246	BibleAppGui_autogen/mocs_compilation.cpp	df34a951e4bdfd08
+28	2051	7647914659272246	C:/Users/Owner/Documents/BibleAppGui/build/Desktop_Qt_6_8_3_MinGW_64_bit-Release/BibleAppGui_autogen/timestamp	df34a951e4bdfd08
+28	2051	7647914659272246	C:/Users/Owner/Documents/BibleAppGui/build/Desktop_Qt_6_8_3_MinGW_64_bit-Release/BibleAppGui_autogen/mocs_compilation.cpp	df34a951e4bdfd08
+2065	2216	7647914662712117	BibleAppGui_autogen/EWIEGA46WW/qrc_resources.cpp	5f4bb6fa884db30a
+2065	2216	7647914662712117	C:/Users/Owner/Documents/BibleAppGui/build/Desktop_Qt_6_8_3_MinGW_64_bit-Release/BibleAppGui_autogen/EWIEGA46WW/qrc_resources.cpp	5f4bb6fa884db30a
+2241	3156	7647914663172118	CMakeFiles/BibleAppGui.dir/BibleAppGui_autogen/EWIEGA46WW/qrc_resources.cpp.obj	ff8af349e851c5f1
+2216	7041	7647914662922108	CMakeFiles/BibleAppGui.dir/BibleAppGui_autogen/mocs_compilation.cpp.obj	edaf01fb13c42a14
+2224	7052	7647914663002108	CMakeFiles/BibleAppGui.dir/main.cpp.obj	9e777c1d75ebdbd6
+2232	9371	7647914663082110	CMakeFiles/BibleAppGui.dir/mainwindow.cpp.obj	1d01f7fc0250b5e
+9372	9698	7647914734482163	BibleAppGui.exe	c07f71bd841a28fd
