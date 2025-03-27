@@ -1,0 +1,9 @@
+# ninja log v6
+10	859	7647436078587640	BibleAppGui_autogen/timestamp	df34a951e4bdfd08
+10	859	7647436078587640	BibleAppGui_autogen/mocs_compilation.cpp	df34a951e4bdfd08
+10	859	7647436078587640	C:/Users/Owner/Documents/BibleAppGui/build/Desktop_Qt_6_8_3_MinGW_64_bit-Release/BibleAppGui_autogen/timestamp	df34a951e4bdfd08
+10	859	7647436078587640	C:/Users/Owner/Documents/BibleAppGui/build/Desktop_Qt_6_8_3_MinGW_64_bit-Release/BibleAppGui_autogen/mocs_compilation.cpp	df34a951e4bdfd08
+864	3444	7647436079618601	CMakeFiles/BibleAppGui.dir/BibleAppGui_autogen/mocs_compilation.cpp.obj	edaf01fb13c42a14
+870	3511	7647436079658577	CMakeFiles/BibleAppGui.dir/main.cpp.obj	9e777c1d75ebdbd6
+877	4837	7647436079698131	CMakeFiles/BibleAppGui.dir/mainwindow.cpp.obj	1d01f7fc0250b5e
+4838	5087	7647436119345394	BibleAppGui.exe	708989f5d766bc0d
